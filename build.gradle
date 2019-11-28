@@ -18,6 +18,7 @@ launch4j {
 
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
+apply plugin: 'edu.sc.seis.launch4j'
 
 // In this section you declare where to find the dependencies of your project
 repositories {
